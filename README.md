@@ -1,9 +1,6 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # react-5-standard-1st-assignment
+
+## 과제 수행 방법
+
+- App.jsx 파일에 TODO: 로 표기된 주석을 확인하고 그 아래 부분을 확인하고 코드를 작성하세요.
+- 과제 결과는 https://react-5-standard-1st-homework.vercel.app/ 와 동일하게 동작해야 합니다.
